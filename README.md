@@ -6,6 +6,8 @@
 - ⚡ Interested in AI / GPU / FPGA / Crypto / IoT
 - 📫 How to reach me: yarenty(at)gmail.com
 
+
+__Life isn't as serious as the mind makes it out to be.__
 <!--
 **yarenty/yarenty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
