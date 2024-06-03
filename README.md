@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working with Rust / High-Performance Computing / Big Data / Machine Learning / AI
+- 🌱 I’m currently learning LLMs 
+- 👯 During my career, I worked with various languages and technologies, including Rust, Scala, Java, Python, C++, and much more.
+- ⚡ Interested in AI / GPU / FPGA / Crypto / IoT
+- 📫 How to reach me: yarenty(at)gmail.com
+
 <!--
 **yarenty/yarenty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
