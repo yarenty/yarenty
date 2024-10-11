@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working with Rust / High-Performance Computing / Big Data / Machine Learning / AI
-- 🌱 I’m currently learning LLMs 
 - 👯 During my career, I worked with various languages and technologies, including Rust, Scala, Java, Python, C++, CUDA, and much more.
 - ⚡ Interested in AI / GPU / FPGA / Crypto / IoT
 - 📫 How to reach me: yarenty(at)gmail.com
